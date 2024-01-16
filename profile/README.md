@@ -4,7 +4,7 @@
 É uma plataforma web projetada para gerar sequências de números para jogar na loteria Mega Sena. As previsões de números são baseadas em dados históricos e nas crenças do jogador.
 
 ## Por quê?
-O objetivo é identificar crenças populares e demonstrar estatisticamente que superstições não impactam significativamente as chances de ganhar. Visa fornecer uma abordagem racional e baseada em dados para a escolha de números.
+O objetivo é identificar crenças populares e demonstrar estatisticamente sequeências de números com maiores chances de ganhar. Visa fornecer uma abordagem racional e baseada em dados para a escolha de números.
 
 ## Onde?
 Acessível na web, com um design amigável para dispositivos móveis para maior comodidade do usuário.

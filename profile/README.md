@@ -29,10 +29,10 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 
 ## Time:
 <a href="[https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/gabriel-oliveira-03891016b/)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="20" height="20" />
-  Seu Nome
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
+    Seu Nome
 </a>
        
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
+
           

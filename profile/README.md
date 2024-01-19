@@ -1,23 +1,26 @@
 # 📊 ProbaSorte 🎲
 
 ## O quê?
-É uma plataforma web projetada para gerar sequências de números para jogar na loteria Mega Sena. As previsões de números são baseadas em dados históricos e nas crenças do jogador.
+ProbaSorte é uma inovadora plataforma web projetada para simplificar a escolha de números na Mega Sena, combinando dados históricos e crenças pessoais. Sendo um app para dispositives móveis, o ProbaSorte oferece uma experiência consistente, destacando-se por seu design amigável para dispositivos móveis. Ideal para todos os jogadores, a plataforma busca automatizar o processo de seleção, proporcionando sequências de números sugeridas com base em uma análise estatística cuidadosa ou a partir de creças pessoais. Basta visitar o app, fazer login, escolher entre sorte e estatistíca, e clicar em "Gerar Números" para obter sugestões equilibradas e fundamentadas.
 
-## Por quê?
-O objetivo é identificar crenças populares e demonstrar estatisticamente sequeências de números com maiores chances de ganhar. Visa fornecer uma abordagem racional e baseada em dados para a escolha de números.
+## Por que escolher o ProbaSorte?
 
-## Onde?
-Acessível na web, com um design amigável para dispositivos móveis para maior comodidade do usuário.
+O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecendo uma abordagem racional e personalizada para a escolha de números. Acessível online, o aplicativo atende tanto usuários de desktop quanto de dispositivos móveis, promovendo conveniência. Seja para aqueles que buscam estratégias estatísticas ou para quem confia em crenças pessoais, o ProbaSorte é a ferramenta ideal, trazendo uma nova dimensão à experiência da Mega Sena. Simplifique sua jogada, confie na análise inteligente do ProbaSorte e aumente suas chances de sucesso na loteria.
 
-## Quem?
-Esta plataforma é ideal para novos jogadores que desejam automatizar a escolha de seus números na Mega Sena. Ela combina análise estatística com sorte, atendendo àqueles que buscam uma abordagem equilibrada para a seleção de números.
+## Experimente
 
-## Como Começar
-### Pré-requisitos
-Certifique-se de ter um navegador web moderno instalado.
+**link:** https://probasorte.vercel.app
+**ou**
+![Firefox_Screenshot_2024-01-19T14-00-50 888Z](https://github.com/Hackathon-Luck-or-Misfortune/.github/assets/79286388/581db4c3-416d-4aae-9f5b-9f273da27670)
 
 ### Uso
-1. Visite o site.
-2. Insira quaisquer preferências ou crenças específicas que você tenha para a seleção de números.
-3. Clique no botão "Gerar Números".
-4. Receba um conjunto de números sugeridos com base em dados históricos e análise estatística.
+1. Abra o aplicativo do ProbaSorte
+2. Faça seu cadastro clicando no botão “Entrar” e depois em “Cadastre-se”
+3. Preencha “Nome”, “E-mail”, “Estado”, “Cidade”, “Senha”
+4. Clique no botão “Criar Conta”
+5. Faça login
+6. Clique no menu “Gerar Sorte”
+7. Escolha a opção “Com amuleto” ou “Com histórico”
+8. Na opção “Com amuleto” você deve preencher até ... de sua preferência. Depois clique em “Comprar jogo”
+9. Ao escolher a opção “Com histórico” clique em “Comprar Jogo”.
+

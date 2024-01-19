@@ -30,20 +30,23 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 ## Time:
 
 ### Web Developer
-[Herison Pereira](https://www.linkedin.com/in/herison/) 
-[Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) 
+- [Herison Pereira](https://www.linkedin.com/in/herison/) 
+
+- [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) 
 
 ### Data Science (DS)
-[Gabriel Oliveira](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
+- [Gabriel Oliveira](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
 
 ### Data Analyst (DA)
-[Seu Nome](https://www.linkedin.com/in/seu-nome/) 
-[Seu Nome](https://www.linkedin.com/in/seu-nome/) 
-[Seu Nome](https://www.linkedin.com/in/seu-nome/) 
+- [Luiz Guilherme Pereira](https://www.linkedin.com/in/luiz-g-pereira) 
+
+- [Thiago Nazario](https://www.linkedin.com/in/thiagonazario/) 
+
+- [Katia Goldchleger](https://www.linkedin.com/in/katia-goldchleger-93b724232/) 
 
 ### Quality Assurance (QA)
-[Seu Nome](https://www.linkedin.com/in/seu-nome/) 
-[Seu Nome](https://www.linkedin.com/in/seu-nome/) 
+- [Monique M.](https://www.linkedin.com/in/monique-m-4024132ab/) 
 
-[Seu Nome](https://www.linkedin.com/in/seu-nome/)       
-me/)        
+- [Gabriel Martins](https://www.linkedin.com/in/gmapwebdev/) 
+
+

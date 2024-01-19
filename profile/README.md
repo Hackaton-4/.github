@@ -9,12 +9,12 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 
 ## Experimente
 
-**link:** https://probasorte.vercel.app
+![Firefox_Screenshot_2024-01-19T14-00-50 888Z](https://github.com/Hackathon-Luck-or-Misfortune/.github/assets/79286388/581db4c3-416d-4aae-9f5b-9f273da27670)
 
 **ou**
 
+**link:** https://probasorte.vercel.app
 
-![Firefox_Screenshot_2024-01-19T14-00-50 888Z](https://github.com/Hackathon-Luck-or-Misfortune/.github/assets/79286388/581db4c3-416d-4aae-9f5b-9f273da27670)
 
 ### Uso
 1. Abra o aplicativo do ProbaSorte
@@ -26,4 +26,8 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 7. Escolha a opção “Com amuleto” ou “Com histórico”
 8. Na opção “Com amuleto” você deve preencher até ... de sua preferência. Depois clique em “Comprar jogo”
 9. Ao escolher a opção “Com histórico” clique em “Comprar Jogo”.
+
+## Time:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) Gabriel Oliveira
 

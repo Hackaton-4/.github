@@ -29,5 +29,5 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 
 ## Time:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) Gabriel Oliveira
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) Gabriel Oliveira
 

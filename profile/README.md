@@ -16,17 +16,21 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 **link:** https://probasorte.vercel.app
 
 
-### Uso
-1. Abra o aplicativo do ProbaSorte
-2. Faça seu cadastro clicando no botão “Entrar” e depois em “Cadastre-se”
-3. Preencha “Nome”, “E-mail”, “Estado”, “Cidade”, “Senha”
-4. Clique no botão “Criar Conta”
+### Uso (Sou Feirante)
+1. Abra o aplicativo do Dia de Xepa
+2. Selecione botão "Sou feirante"
+3. Preencha campos "Qual o nome da sua banca", "Cep", "Estado", "Cidade", "Rua", "Bairro", "Número", "Complemento", "Telefone", "Whatsapp", "Valor da sacola" e "Imagem"
+4. Clique no botão “Cadastrar”
 5. Faça login
-6. Clique no menu “Gerar Sorte”
-7. Escolha a opção “Com amuleto” ou “Com histórico”
-8. Na opção “Com amuleto” você deve preencher até ... de sua preferência. Depois clique em “Comprar jogo”
-9. Ao escolher a opção “Com histórico” clique em “Comprar Jogo”.
 
+### Uso (Consumidor)
+1. Abra o aplicativo do Dia de Xepa
+2. Selecione botão "Encontrar feiras próximos a mim"
+3. Preencha campo "Insira seu Cep"
+4. Selecione card de feirante de seu interesse
+5. Clique no ícone de Whatsapp/ou Telefone
+6. Consumidor será encaminhado para ter contato direto com o feirante
+   
 ## Time:
 
 ### Web Developer

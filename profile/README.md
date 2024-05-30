@@ -1,7 +1,7 @@
 # 📊 Dia De Xepa 🎲
 
 ## O quê?
-ProbaSorte é uma inovadora plataforma web projetada para simplificar a escolha de números na Mega Sena, combinando dados históricos e crenças pessoais. Sendo um app para dispositives móveis, o ProbaSorte oferece uma experiência consistente, destacando-se por seu design amigável para dispositivos móveis. Ideal para todos os jogadores, a plataforma busca automatizar o processo de seleção, proporcionando sequências de números sugeridas com base em uma análise estatística cuidadosa ou a partir de creças pessoais. Basta visitar o app, fazer login, escolher entre sorte e estatistíca, e clicar em "Gerar Números" para obter sugestões equilibradas e fundamentadas.
+Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte alimentar. Desenvolvido para conectar feirantes a consumidores interessados em adquirir produtos frescos por um preço simbólico. A proposta é combater o desperdício de alimentos e promover a sustentabilidade em feiras livres. Projetado para ser intuitivo e acessível, garantindo que tanto feirantes quanto consumidores possam aproveitar suas funcionalidades com facilidade em dispositivos móveis. Ideal para todos os feirantes e consumidores. Para feirantes, acesse o aplicativo, faça cadastro e disponibilize seu contato com o valor da sua sacola. Para consumidor, acesse o aplicativo e de forma simples, encontre feirantes próximo com base no seu endereço e obtenha sua sacolinha de forma economica e apoie a sustentabilidade. 
 
 ## Por que escolher o ProbaSorte?
 

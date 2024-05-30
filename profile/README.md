@@ -33,7 +33,7 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 ## :watermelon: Time
 
 ### Web Developer
-- [Júlio Lima] 
+- [Júlio Lima](https://github.com/JulioLima97) 
 
 - [Fernando Hipólito](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
 

@@ -48,20 +48,22 @@ Fernando Hipólito: GitHub/ [Linkedin ](https://www.linkedin.com/in/fernando-hip
 
 ### Data Science (DS)
 
-:globe_with_meridians: Rafael Ribeiro: GitHub/ [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
- <br> <br>
-![img](https://github.com/JulioLima97.png?size=80) 
+![img](https://github.com/JulioLima97.png?size=50) <br>
+Rafael Ribeiro: GitHub/ [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
+ <br> 
 
+![img](https://github.com/JulioLima97.png?size=50) <br>
+Rafael Ribeiro: GitHub/ [Linkedin](https://www.linkedin.com/in/gabriel-olive
 
- <br> <br>
+ <br> 
  
 ### Quality Assurance (QA)
 
   <!-- ![img](https://github.com/DharaYasmim.png?size=10) -->
 - [Dhara Yasmin](https://www.linkedin.com/in/dharayasmim/)
   
-  ![img](https://github.com/Jheimys.png?size=80)
-- [James Bassani](https://www.linkedin.com/in/jheimys/) 
+  ![img](https://github.com/Jheimys.png?size=50)
+ [James Bassani](https://www.linkedin.com/in/jheimys/) 
 
 
     

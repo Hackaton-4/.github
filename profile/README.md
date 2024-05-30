@@ -1,4 +1,4 @@
-# 📊 ProbaSorte 🎲
+# 📊 Dia De Xepa 🎲
 
 ## O quê?
 ProbaSorte é uma inovadora plataforma web projetada para simplificar a escolha de números na Mega Sena, combinando dados históricos e crenças pessoais. Sendo um app para dispositives móveis, o ProbaSorte oferece uma experiência consistente, destacando-se por seu design amigável para dispositivos móveis. Ideal para todos os jogadores, a plataforma busca automatizar o processo de seleção, proporcionando sequências de números sugeridas com base em uma análise estatística cuidadosa ou a partir de creças pessoais. Basta visitar o app, fazer login, escolher entre sorte e estatistíca, e clicar em "Gerar Números" para obter sugestões equilibradas e fundamentadas.

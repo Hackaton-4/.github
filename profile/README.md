@@ -33,20 +33,40 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 ## :watermelon: Time
 
 ### Web Developer
-- [Júlio Lima](https://github.com/JulioLima97) 
 
-- [Fernando Hipólito](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
+![img](https://github.com/JulioLima97.png?size=50)    
+Júlio Lima: [GitHub](https://github.com/JulioLima97) / Linkedin:
+
+ <br> 
+
+![img](https://github.com/JulioLima97.png?size=50) <br>
+Fernando Hipólito: GitHub/ [Linkedin ](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
+<br>
+
+
+  
 
 ### Data Science (DS)
-- [Rafael Ribeiro](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
+
+:globe_with_meridians: Rafael Ribeiro: GitHub/ [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
+ <br> <br>
+![img](https://github.com/JulioLima97.png?size=80) 
 
 
+ <br> <br>
+ 
 ### Quality Assurance (QA)
+
+  <!-- ![img](https://github.com/DharaYasmim.png?size=10) -->
 - [Dhara Yasmin](https://www.linkedin.com/in/dharayasmim/)
   
+  ![img](https://github.com/Jheimys.png?size=80)
 - [James Bassani](https://www.linkedin.com/in/jheimys/) 
 
+
+    
 - [Guilherme](https://www.linkedin.com/in/guilherme-souza-5571b425a/)
+
 
 - [Monique M.](https://www.linkedin.com/in/m0n1q) 
 

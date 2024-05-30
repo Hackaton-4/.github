@@ -14,14 +14,15 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 **link:** https://probasorte.vercel.app
 -->
 
-### Uso (Sou Feirante)
+## Uso
+### Sou Feirante
 1. Abra o aplicativo do Dia de Xepa
 2. Selecione botão "Sou feirante"
 3. Preencha campos "Qual o nome da sua banca", "Cep", "Estado", "Cidade", "Rua", "Bairro", "Número", "Complemento", "Telefone", "Whatsapp", "Valor da sacola" e "Imagem"
 4. Clique no botão “Cadastrar”
 5. Faça login
 
-### Uso (Consumidor)
+### Sou Consumidor
 1. Abra o aplicativo do Dia de Xepa
 2. Selecione botão "Encontrar feiras próximos a mim"
 3. Preencha campo "Insira seu Cep"
@@ -29,7 +30,7 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 5. Clique no ícone de Whatsapp/ou Telefone
 6. Consumidor será encaminhado para ter contato direto com o feirante
    
-## Time:
+## Time
 
 ### Web Developer
 - [Júlio Lima] 

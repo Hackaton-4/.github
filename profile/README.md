@@ -34,23 +34,22 @@ O ProbaSorte une a praticidade da tecnologia com a emoção da loteria, oferecen
 ## Time:
 
 ### Web Developer
-- [Herison Pereira](https://www.linkedin.com/in/herison/) 
+- [Júlio Lima] 
 
-- [Sidney Sudatti](https://www.linkedin.com/in/sidney-sudatti/) 
+- [Fernando Hipólito](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
 
 ### Data Science (DS)
-- [Gabriel Oliveira](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
+- [Rafael Ribeiro](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
 
-### Data Analyst (DA)
-- [Luiz Guilherme Pereira](https://www.linkedin.com/in/luiz-g-pereira) 
-
-- [Thiago Nazario](https://www.linkedin.com/in/thiagonazario/) 
-
-- [Katia Goldchleger](https://www.linkedin.com/in/katia-goldchleger-93b724232/) 
 
 ### Quality Assurance (QA)
-- [Monique M.](https://www.linkedin.com/in/monique-m-4024132ab/) 
+- [Dhara Yasmin](https://www.linkedin.com/in/dharayasmim/)
+  
+- [James Bassani](https://www.linkedin.com/in/jheimys/) 
 
-- [Gabriel Martins](https://www.linkedin.com/in/gmapwebdev/) 
+- [Guilherme](https://www.linkedin.com/in/guilherme-souza-5571b425a/)
 
+- [Monique M.](https://www.linkedin.com/in/m0n1q) 
+
+- [Petros Amorim](https://www.linkedin.com/in/petros-amorim-1479bb2ba)
 

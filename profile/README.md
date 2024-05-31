@@ -22,11 +22,12 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 4. Clique no botão “Cadastrar”
 5. Faça login
 
-<!--
+
   <p align=center>
-    <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIInovotime.gif'>
+    <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_inicial.png'>
+    <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_login.png'>
   </p>
-  -->
+  
 
 ### Sou Consumidor
 1. Abra o aplicativo do Dia de Xepa

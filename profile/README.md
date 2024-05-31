@@ -1,6 +1,6 @@
 # :seedling: Dia De Xepa :grapes:
 
-## :banana: O quê?
+## :banana: Sobre
 Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte alimentar. Desenvolvido para conectar feirantes a consumidores interessados em adquirir produtos frescos por um preço simbólico. A proposta é combater o desperdício de alimentos e promover a sustentabilidade em feiras livres. Projetado para ser intuitivo e acessível, garantindo que tanto feirantes quanto consumidores possam aproveitar suas funcionalidades com facilidade em dispositivos móveis. Ideal para todos os feirantes e consumidores. Para feirantes, acesse o aplicativo, faça cadastro e disponibilize seu contato com o valor da sua sacola. Para consumidor, acesse o aplicativo e de forma simples, encontre feirantes próximo com base no seu endereço e obtenha sua sacolinha de forma economica e apoie a sustentabilidade. 
 
 

@@ -25,6 +25,8 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 
   <p align=center>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_inicial.png'>
+    <image width="145" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/cadastro_ferirante1.png'>
+    <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/cadastro_ferirante2.png'>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_login.png'>
   </p>
   

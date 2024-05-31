@@ -22,14 +22,14 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 4. Clique no botão “Cadastrar”
 5. Faça login
 
-
+<!--
   <p align=center>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_inicial.png'>
     <image width="145" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/cadastro_ferirante1.png'>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/cadastro_ferirante2.png'>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_login.png'>
   </p>
-  
+  -->
 
 ### Sou Consumidor
 1. Abra o aplicativo do Dia de Xepa
@@ -38,12 +38,12 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 4. Selecione card de feirante de seu interesse
 5. Clique no ícone de Whatsapp/ou Telefone
 6. Consumidor será encaminhado para ter contato direto com o feirante
-
+<!--
    <p align=center>
     <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_inicial.png'>
     <image width="148" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/insira_cep.png'>
   </p>
-   
+   -->
 ## Time
 
 ### Web Developer

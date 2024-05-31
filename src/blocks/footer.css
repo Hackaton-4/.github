@@ -1,0 +1,48 @@
+@media screen and (max-width: 380px) {
+    .footer {
+        width: 379px;
+        background-color: #138843;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .footer__block {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer__block_primary {
+        width: 160px;
+    }
+
+    .footer__block_secondary {
+        display: flex;
+    }
+
+    .footer__paragraph {
+        font-size: 14px;
+        color: #000000;
+    }
+
+    .footer__socialMediasIgn {
+        width: 38px;
+        height: 49px;
+    }
+    
+    .footer__socialMediasFacebook {
+        width: 38px;
+        height: 49px;
+    }
+
+    .footer__socialMediasYoutube {
+        width: 38px;
+        height: 49px;
+    }
+
+    .footer__socialMediasX {
+        width: 38px;
+        height: 49px;
+    }
+}

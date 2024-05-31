@@ -1,0 +1,84 @@
+@media only screen and (max-width: 379px) {
+    .forgot__password {
+      width: 360px;
+      height: 851px;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffa451;
+    }
+  
+    .forgot__password_header {
+      width: 360px;
+      height: 47px;
+      margin: 0;
+      padding-top: 10px;
+      text-align: center;
+      font-size: 36px;
+      text-transform: uppercase;
+      color: #ec7b15;
+      background-color: #138843;
+    }
+  
+    .forgot__image_logo {
+      width: 301px;
+      height: 240px;
+      margin: 24px auto 27px;
+    }
+  
+    .forgot__password-title {
+      width: 324px;
+      height: 48px;
+      margin: 0 auto 13px;
+      font-size: 16px;
+      font-weight: 400;
+    }
+  
+    .forgot__form_cel {
+      width: 327px;
+      height: 56px;
+      margin: 0 auto 0;
+    }
+  
+    .forgot__form_input {
+      width: 314px;
+      height: 27px;
+      border-radius: 12px;
+      margin: 0 auto 13px;
+      padding: 15px 0 14px 13px;
+      border: none;
+      color: #c4c4c4;
+      background-color: #6a8262;
+      font-size: 18px;
+    }
+  
+    input::placeholder {
+      color: #c4c4c4;
+    }
+  
+    .forgot__form_input:focus {
+      box-shadow: 0 0 0 0;
+      border: 1px solid black;
+      outline: 0;
+    }
+  
+    .forgot__button_container {
+      width: 327px;
+      height: 27px;
+      margin: 49px auto 13px;
+      display: flex;
+      justify-content: space-between;
+    }
+  
+    .forgot__button {
+      width: 156px;
+      height: 35px;
+      border: none;
+      border-radius: 12px;
+      color: #ffffff;
+      background-color: #517245;
+    }
+  
+    .forgot__button:hover {
+      opacity: 0.7;
+    }
+  }

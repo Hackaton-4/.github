@@ -1,0 +1,17 @@
+@media screen and (max-width: 380px) {
+    .header {
+        max-width: 379px;
+        height: 57px;
+        background-color: #138843;
+    }
+
+    .header__logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .header__image_logo {
+        width: 154px;
+        height: 49px;
+    }
+}

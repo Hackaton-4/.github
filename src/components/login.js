@@ -1,15 +1,18 @@
 import React from "react";
-import diadexepa from "./images/diaDeXepa.png"
+import diadexepa from "./images/diaDeXepa.png";
 import logo from "./images/logo.png";
 
 function Login() {
   return (
     <>
-    <section className="login">
-        <img className="login__image_logo" alt="imagem do logo" src={diadexepa} />
+      <section className="login">
+        <img
+          className="login__image_logo"
+          alt="Imagem do logo"
+          src={diadexepa}
+        />
         <form className="login__form">
-        <label className="login__form_title">
-          Telefone</label>
+          <label className="login__form_title">Telefone</label>
           <input
             className="login__form_input"
             type="number"
@@ -18,10 +21,7 @@ function Login() {
             placeholder="Insira seu telefone"
             required=""
           ></input>
-          </form>
-        <form className="login__form_cel">
-        <label className="login__form_title">
-          Senha</label>
+          <label className="login__form_title">Senha</label>
           <input
             className="login__form_input"
             type="text"
@@ -30,8 +30,10 @@ function Login() {
             placeholder="Insira sua senha"
             required=""
           ></input>
+          <a className="login__forgot" href="#forgotPassword">
+            Esqueci minha senha
+          </a>
         </form>
-        <p className="login__forgot">Esqueci minha senha</p>
         <div className="login__button_container">
           <button className="login__button">Voltar</button>
           <button className="login__button">Login</button>
@@ -43,9 +45,9 @@ function Login() {
         <h1 className="forgot__password_header">Dia de xepa</h1>
         <img className="forgot__image_logo" alt="Imagem do logo" src={logo} />
         <form className="forgot__form_cel">
-        <label className="forgot__password_title">
-          Insira seu telefone. Um SMS será enviado com a nova senha
-        </label>
+          <label className="forgot__password_title">
+            Insira seu telefone. Um SMS será enviado com a nova senha
+          </label>
           <input
             className="forgot__form_input"
             type="number"

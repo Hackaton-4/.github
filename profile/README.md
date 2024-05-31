@@ -30,45 +30,40 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 5. Clique no ícone de Whatsapp/ou Telefone
 6. Consumidor será encaminhado para ter contato direto com o feirante
    
-## :watermelon: Time
+## Time
 
 ### Web Developer
+ 
+- Júlio Lima  <br> 
+:globe_with_meridians:  Linkedin
 
-![img](https://github.com/JulioLima97.png?size=50)    
-Júlio Lima: [GitHub](https://github.com/JulioLima97) / Linkedin:
-
- <br> 
-
-![img](https://github.com/JulioLima97.png?size=50) <br>
-Fernando Hipólito: GitHub/ [Linkedin ](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
-<br>
-
-
+- Fernando Hipólito <br> 
+:globe_with_meridians: [Linkedin ](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
   
 
 ### Data Science (DS)
 
-![img](https://github.com/JulioLima97.png?size=50) <br>
-Rafael Ribeiro: GitHub/ [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
- <br> 
+- Rafael Ribeiro  
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
 
 
- 
+
 ### Quality Assurance (QA)
 
-  <!-- ![img](https://github.com/DharaYasmim.png?size=10) -->
-- [Dhara Yasmin](https://www.linkedin.com/in/dharayasmim/)
+- Dhara Yasmin <br>
+:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/dharayasmim/)
 
 
-![img](https://github.com/Jheimys.png?size=50)  <br> 
-[James Bassani](https://www.linkedin.com/in/jheimys/) 
+- James Bassani <br> 
+  :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/jheimys/) 
 
 
-    
-- [Guilherme](https://www.linkedin.com/in/guilherme-souza-5571b425a/)
+- Guilherme Souza <br> 
+ :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/guilherme-souza-5571b425a/)
 
+- Monique M.  <br> 
+ :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/m0n1q) 
 
-- [Monique M.](https://www.linkedin.com/in/m0n1q) 
-
-- [Petros Amorim](https://www.linkedin.com/in/petros-amorim-1479bb2ba)
+- Petros Amorim <br> 
+  :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/petros-amorim-1479bb2ba)
 

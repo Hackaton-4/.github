@@ -22,6 +22,12 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 4. Clique no botão “Cadastrar”
 5. Faça login
 
+<!--
+  <p align=center>
+    <image width="670" heigth="770" src='https://github.com/Jheimys/assets/blob/master/organoIInovotime.gif'>
+  </p>
+  -->
+
 ### Sou Consumidor
 1. Abra o aplicativo do Dia de Xepa
 2. Selecione botão "Encontrar feiras próximos a mim"

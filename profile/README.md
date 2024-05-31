@@ -80,4 +80,5 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 
 - Petros Amorim <br> 
   :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/petros-amorim-1479bb2ba)
-
+  
+**Have fun building!** 🚀

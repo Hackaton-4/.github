@@ -38,6 +38,11 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 4. Selecione card de feirante de seu interesse
 5. Clique no ícone de Whatsapp/ou Telefone
 6. Consumidor será encaminhado para ter contato direto com o feirante
+
+   <p align=center>
+    <image width="150" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/tela_inicial.png'>
+    <image width="148" heigth="70" src='https://github.com/Hackaton-4/Assets_dia_xepa/blob/master/insira_cep.png'>
+  </p>
    
 ## Time
 

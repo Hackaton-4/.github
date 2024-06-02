@@ -64,7 +64,7 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 
 ### Quality Assurance (QA)
 
-- Dhara Yasmin <br>
+- Dhara Yasmim <br>
 :globe_with_meridians: [Linkedin](https://www.linkedin.com/in/dharayasmim/)
 
 

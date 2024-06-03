@@ -55,12 +55,6 @@ Dia de Xepa é uma plataforma web projetada com o intuito de diminuir descarte a
 :globe_with_meridians: [Linkedin ](https://www.linkedin.com/in/fernando-hip%C3%B3lito/)
   
 
-### Data Science (DS)
-
-- Rafael Ribeiro  
-:globe_with_meridians: [Linkedin](https://www.linkedin.com/in/gabriel-oliveira-03891016b/) 
-
-
 
 ### Quality Assurance (QA)
 

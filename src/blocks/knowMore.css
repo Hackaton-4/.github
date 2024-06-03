@@ -1,84 +1,95 @@
-@media only screen and (max-width: 380px) {
-  .knowMore {
-    width: 360px;
-    height: 1392px;
-  }
+.knowMore {
+  width: 360px;
+  height: 1392px;
+  margin-top: 100px;
+}
 
-  .knowMore__title {
-    height: 27px;
-    margin: 13px auto 13px 30px;
-    color: #ec7b15;
-    font-size: 20px;
-  }
+.knowMore__header {
+  width: 360px;
+  height: 47px;
+  margin: 0 0 21px 0;
+  padding: auto;
+  text-align: center;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #ec7b15;
+  background-color: #138843;
+}
 
-  .knowMore__text {
-    width: 299px;
-    margin: 0 auto 15px 30px;
-    font-size: 14px;
-  }
+.knowMore__title {
+  height: 27px;
+  margin: 13px auto 13px 30px;
+  color: #ec7b15;
+  font-size: 20px;
+}
 
-  .knowMore__images_container {
-    width: 250px;
-    height: 69px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 10px;
-    margin: 0 auto 15px;
-  }
+.knowMore__text {
+  width: 299px;
+  margin: 0 auto 15px 30px;
+  font-size: 14px;
+}
 
-  .knowMore__image {
-    width: 69px;
-    height: 69px;
-    align-items: center;
-  }
+.knowMore__images_container {
+  width: 250px;
+  height: 69px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+  margin: 0 auto 15px;
+}
 
-  .knowMore__text_container {
-    width: 300px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin: auto auto;
-  }
+.knowMore__image {
+  width: 69px;
+  height: 69px;
+  align-items: center;
+}
 
-  .knowMore__text_right {
-    width: 211px;
-    margin: 0 0 15px 0;
-    font-size: 14px;
-  }
+.knowMore__text_container {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto auto;
+}
 
-  .knowMore__text_left {
-    width: 207px;
-    margin: 0 0 15px 0;
-    font-size: 14px;
-  }
+.knowMore__text_right {
+  width: 211px;
+  margin: 0 0 15px 0;
+  font-size: 14px;
+}
 
-  .knowmore__image_block {
-    text-align: center;
-    margin: 0 83.5px 15px;
-  }
+.knowMore__text_left {
+  width: 207px;
+  margin: 0 0 15px 0;
+  font-size: 14px;
+}
 
-  .knowMore__image_testimony {
-    margin: auto 30px;
-  }
+.knowmore__image_block {
+  text-align: center;
+  margin: 0 83.5px 15px;
+}
 
-  .knowMore__carousel {
-    width: 300px;
-    margin: 0 30px;
-  }
+.knowMore__image_testimony {
+  margin: auto 30px;
+}
 
-  .knowMore__image_profile {
-    width: 94px;
-    height: 100px;
-    margin-right: 5px;
-  }
+.knowMore__carousel {
+  width: 300px;
+  margin: 0 30px;
+}
 
-  .knowMore__link {
-    text-decoration: none;
-  }
+.knowMore__image_profile {
+  width: 94px;
+  height: 100px;
+  margin-right: 5px;
+}
 
-  .knowMore__image_icon {
-    width: 25px;
-    height: 29px;
-  }
+.knowMore__link {
+  text-decoration: none;
+}
+
+.knowMore__image_icon {
+  width: 25px;
+  height: 29px;
 }

@@ -1,1 +1,12 @@
+@import url(./vendor/fonts/inter.css);
 @import url(./page/index.css);
+@import url(./blocks/footer.css);
+@import url(./blocks/cadastro.css);
+@import url(./blocks/header.css);
+@import url(./blocks/homePage.css);
+@import url(./blocks/knowMore.css);
+@import url(./blocks/login.css);
+@import url(./blocks/main.css);
+@import url(./blocks/marketerProfile.css);
+@import url(./blocks/register.css);
+@import url(./blocks/welcome.css);

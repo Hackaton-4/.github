@@ -1,6 +1,7 @@
-import logo from './images/logo.png';
+import React from "react";
+import logo from "../images/logo.png";
 
-function App() {
+function Header() {
   return (
     <>
       <header className="header">
@@ -12,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default Header;

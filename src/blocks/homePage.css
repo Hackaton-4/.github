@@ -1,133 +1,131 @@
-@media only screen and (max-width: 380px) {
-  .homePage {
-    width: 360px;
-    height: 1955px;
-    display: flex;
-    flex-direction: column;
-    background-color: #ffa451;
-  }
+.homePage {
+  width: 360px;
+  height: 1955px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffa451;
+}
 
-  .homePage__image_logo-container {
-    width: 360px;
-    height: 137px;
-    display: flex;
-    justify-content: center;
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
-    margin-bottom: 7px;
-    background-color: #138843;
-  }
+.homePage__image_logo-container {
+  width: 360px;
+  height: 137px;
+  display: flex;
+  justify-content: center;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  margin-bottom: 7px;
+  background-color: #138843;
+}
 
-  .homePage__image_logo {
-  }
+.homePage__image_logo {
+}
 
-  .homePage__image_link {
-    width: 24px;
-    height: 21px;
-    margin: 0 20px 7px auto;
-  }
+.homePage__image_link {
+  width: 24px;
+  height: 21px;
+  margin: 0 20px 7px auto;
+}
 
-  .homePage__image_link:hover {
-    opacity: 0.7;
-  }
+.homePage__image_link:hover {
+  opacity: 0.7;
+}
 
-  .homePage__image_cancel {
-    margin: 0 20px 7px auto;
-  }
+.homePage__image_cancel {
+  margin: 0 20px 7px auto;
+}
 
-  .homePage__image_container {
-    position: relative;
-  }
+.homePage__image_container {
+  position: relative;
+}
 
-  .homePage__image_text {
-    width: 320px;
-    height: 220px;
-    margin: 0 20px 15px;
-  }
+.homePage__image_text {
+  width: 320px;
+  height: 220px;
+  margin: 0 20px 15px;
+}
 
-  .homePage__image_vegetable {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -20px;
-    left: 19px;
-  }
+.homePage__image_vegetable {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -20px;
+  left: 19px;
+}
 
-  .homePage__image_container-one {
-    position: relative;
-  }
+.homePage__image_container-one {
+  position: relative;
+}
 
-  .homePage__image_vegetable-one {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -50px;
-    right: 23px;
-  }
+.homePage__image_vegetable-one {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -50px;
+  right: 23px;
+}
 
-  .homePage__image_container-two {
-    position: relative;
-  }
+.homePage__image_container-two {
+  position: relative;
+}
 
-  .homePage__image_vegetable-two {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -75px;
-    left: 16px;
-  }
+.homePage__image_vegetable-two {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -75px;
+  left: 16px;
+}
 
-  .homePage__image_container-tree {
-    position: relative;
-  }
+.homePage__image_container-tree {
+  position: relative;
+}
 
-  .homePage__image_vegetable-tree {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -82px;
-    left: 150px;
-  }
+.homePage__image_vegetable-tree {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -82px;
+  left: 150px;
+}
 
-  .homePage__image_container-four {
-    position: relative;
-  }
+.homePage__image_container-four {
+  position: relative;
+}
 
-  .homePage__image_vegetable-four {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -48px;
-    right: 30px;
-  }
+.homePage__image_vegetable-four {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -48px;
+  right: 30px;
+}
 
-  .homePage__image_container-five {
-    position: relative;
-  }
+.homePage__image_container-five {
+  position: relative;
+}
 
-  .homePage__image_vegetable-five {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -50px;
-    left: 30px;
-  }
+.homePage__image_vegetable-five {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -50px;
+  left: 30px;
+}
 
-  .homePage__image_container-six {
-    position: relative;
-  }
+.homePage__image_container-six {
+  position: relative;
+}
 
-  .homePage__image_vegetable-six {
-    width: 65px;
-    height: 67px;
-    position: absolute;
-    top: -50px;
-    left: 150px;
-  }
+.homePage__image_vegetable-six {
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  top: -50px;
+  left: 150px;
+}
 
-  .homePage__image_business {
-    position: absolute;
-    bottom: -130px;
-    right: 90px;
-  }
+.homePage__image_business {
+  position: absolute;
+  bottom: -130px;
+  right: 90px;
 }

@@ -1,59 +1,70 @@
-@media only screen and (max-width: 380px) {
-  .marketerProfile {
-    width: 380px;
-    background-color: #ffa451;
-    display: flex;
-    flex-direction: column;
-  }
+.marketerProfile {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  background-color: #ffa451;
+}
 
-  .marketerProfile__image {
-    width: 171px;
-    height: 149px;
-    margin: 24px auto 22px;
-    border: 6px solid #e4dfdf;
-    border-radius: 10%;
-  }
+.marketerProfile__header {
+  width: 360px;
+  height: 47px;
+  margin: 0 0 21px 0;
+  padding: auto;
+  text-align: center;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: #ec7b15;
+  background-color: #138843;
+}
 
-  .marketerProfile__text {
-    margin: 0 auto 11px 21px;
-    font-size: 20px;
-    color: #27214d;
-  }
-  .marketerProfile__span {
-    color: black;
-  }
+.marketerProfile__image {
+  width: 171px;
+  height: 149px;
+  margin: 24px auto 22px;
+  border: 6px solid #e4dfdf;
+  border-radius: 10%;
+}
 
-  .marketerProfile__link {
-    margin: 17px auto 19px 21px;
-    text-decoration: none;
-    color: red;
-    font-size: 20px;
-  }
+.marketerProfile__text {
+  margin: 0 auto 11px 21px;
+  font-size: 20px;
+  color: #27214d;
+}
+.marketerProfile__span {
+  color: black;
+}
 
-  .marketerProfile__link:hover {
-    color: aquamarine;
-  }
+.marketerProfile__link {
+  margin: 17px auto 19px 21px;
+  text-decoration: none;
+  color: red;
+  font-size: 20px;
+}
 
-  .marketerProfile__button_container {
-    width: 329px;
-    display: flex;
-    justify-content: space-between;
-    margin-left: 16px;
-    margin-bottom: 48px;
-  }
+.marketerProfile__link:hover {
+  color: aquamarine;
+}
 
-  .marketerProfile__button {
-    width: 160px;
-    height: 41px;
-    border: none;
-    border-radius: 12px;
-    background-color: #517245;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+.marketerProfile__button_container {
+  width: 329px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 16px;
+  margin-bottom: 48px;
+}
 
-  .marketerProfile__button:hover {
-    opacity: 0.7;
-  }
+.marketerProfile__button {
+  width: 160px;
+  height: 41px;
+  border: none;
+  border-radius: 12px;
+  background-color: #517245;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.marketerProfile__button:hover {
+  opacity: 0.7;
 }

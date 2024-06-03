@@ -1,20 +1,23 @@
 @font-face {
-  font-family: "Inter";
-  font-style: normal;
+  font-family: "ABeeZee";
   font-weight: 400;
-  src: url(./ABeeZee-Regular.ttf);
+  src: url("./ABeeZee-Regular.ttf") format ("ttf");
 }
 
 @font-face {
-  font-family: "Inter";
-  font-style: italic;
-  font-weight: 500;
-  src: url(Archivo-Italic-VariableFont_wdth\wght.ttf);
+  font-family: "ABeeZee";
+  font-weight: 400;
+  src: url("./ABeeZee-Italic.ttf") format ("ttf");
 }
 
 @font-face {
-  font-family: "Inter";
-  font-style: normal;
+  font-family: "Archivo";
   font-weight: 400;
-  src: url(Bangers-Regular.ttf);
+  src: url("./Archivo-Italic-VariableFont_wdth\,wght.ttf") format ("ttf");
+}
+
+@font-face {
+  font-family: "Bangers";
+  font-weight: 400;
+  src: url("./Bangers-Regular.ttf") format ("ttf");
 }

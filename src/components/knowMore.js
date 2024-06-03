@@ -25,6 +25,7 @@ function KnowMore() {
   return (
     <>
       <section className="knowMore">
+        <h1 className="knowMore__header">Dia de xepa</h1>
         <h2 className="knowMore__title">Saiba mais</h2>
         <p className="knowMore__text">
           Dia de Xepa tem como propósito conectar pessoas que buscam uma

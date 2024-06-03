@@ -5,6 +5,7 @@ function MarketerProfile() {
   return (
     <>
       <section className="marketerProfile">
+        <h1 className="marketerProfile__header">Dia de xepa</h1>
         <img
           className="marketerProfile__image"
           alt="Feirante em sua barraca"

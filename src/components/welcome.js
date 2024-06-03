@@ -1,6 +1,7 @@
-import logo from "./images/diaDeXepa.png";
+import React from "react";
+import logo from "../images/diaDeXepa.png";
 
-function App() {
+function Welcome() {
   return (
     <>
       <section className="welcome">
@@ -25,4 +26,4 @@ function App() {
   );
 }
 
-export default App;
+export default Welcome;

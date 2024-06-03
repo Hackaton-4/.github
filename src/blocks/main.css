@@ -1,82 +1,81 @@
-@media screen and (max-width: 380px) {
-    .main {
-        max-width: 379px;
-        display: flex;
-        justify-content: center;
-    }
+.main {
+  max-width: 379px;
+  display: flex;
+  justify-content: center;
+}
 
-    .main__block {
-        width: 294px;
-    }
+.main__block {
+  width: 294px;
+}
 
-    .main__paragraph {
-        width: 294px;
-        height: 48px;
-        font-size: 20px;
-    } 
+.main__paragraph {
+  width: 294px;
+  height: 48px;
+  font-size: 20px;
+}
 
-    .main__input_cep {
-        width: 265px;
-        height: 38px;
-        background-color: #F08626;
-        color: #FFF;
-        border: none;
-        border-radius: 20px;
-        font-size: 20px;
-        margin: 0px 0 0 0;
-    }
+.main__input_cep {
+  width: 265px;
+  height: 38px;
+  background-color: #f08626;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+  margin: 0px 0 0 0;
+}
 
-    input::placeholder {
-        color: #FFA451;
-        opacity: 100%;
-        padding: 0 0 0 10px;
-      }
+input::placeholder {
+  color: #ffa451;
+  opacity: 100%;
+  padding: 0 0 0 10px;
+}
 
-    .main__title {
-        font-size: 30px;
-        width: 339px;
-    }
+.main__title {
+  font-size: 30px;
+  width: 339px;
+}
 
-    .main__card {
-        width: 294px;
-        height: 301px;
-        background-color: #E8D581;
-        border-radius: 12px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
+.main__card {
+  width: 294px;
+  height: 301px;
+  background-color: #e8d581;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-    .main__image {
-        width: 199px;
-        height: 180px;
-        margin: 16px 0 0 0;
-    }
+.main__image {
+  width: 199px;
+  height: 180px;
+  margin: 16px 0 0 0;
+}
 
-    .main__card_title {
-        width: 247px;
-        height: 32px;
-        font-size: 20px;
-        color: #517245;
-        margin: 0;
-        padding: 9px 0 0 0;
-    }
+.main__card_title {
+  width: 247px;
+  height: 32px;
+  font-size: 20px;
+  color: #517245;
+  margin: 0;
+  padding: 9px 0 0 0;
+}
 
-    .main__card_block {
-        width: 294px;
-        display: flex;
-    }
+.main__card_block {
+  width: 294px;
+  display: flex;
+}
 
-    .main__card_price {
-        width: 104px;
-        height: 28px;
-        font-size: 20px;
-        color: #517245;
-        margin: 7px 0 0 0;
-        padding: 0 0 0 22px;
-    }
+.main__card_price {
+  width: 104px;
+  height: 28px;
+  font-size: 20px;
+  color: #517245;
+  margin: 7px 0 0 0;
+  padding: 0 0 0 22px;
+}
 
-    .main__simbol {
-        width: 53px;
-        height: 52px;    }
+.main__simbol {
+  width: 53px;
+  height: 52px;
 }
